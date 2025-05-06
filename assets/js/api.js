@@ -3,7 +3,7 @@
 
 
 //api key
-const api_key = `<api-key>`;
+const api_key = process.env.WEATHER_API;
 
 
 /**
